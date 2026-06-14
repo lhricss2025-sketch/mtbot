@@ -1,8 +1,0 @@
-packages:
-  - '.'
-
-allowBuilds:
-  '@whiskeysockets/baileys': true
-  ffmpeg-static: true
-  protobufjs: true
-  sharp: true
